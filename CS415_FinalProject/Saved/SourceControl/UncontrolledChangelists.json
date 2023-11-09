@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/CrouchCtrl.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
 			]
 		}
 	]
