@@ -5,16 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/CrouchCtrl.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Idle_Rifle_Hip.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Idle_Rifle_Ironsights.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset"
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Input/Actions/IA_Run.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/Characters/Mannequins/Animations/Quinn/MF_Sprint_Fwd.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
