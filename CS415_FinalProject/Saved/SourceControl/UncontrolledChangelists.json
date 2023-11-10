@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Input/IMC_Default.uasset",
