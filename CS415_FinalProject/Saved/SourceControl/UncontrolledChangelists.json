@@ -10,7 +10,11 @@
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/CrouchCtrl.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Idle_Rifle_Hip.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Idle_Rifle_Ironsights.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset"
 			]
 		}
 	]
