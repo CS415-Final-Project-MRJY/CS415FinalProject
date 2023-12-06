@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Parent_Pickup.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Mesh/Cube.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Health_Pack.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TN/E0UQPIK1M515YS7Z3A8UBC.uasset",
+				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Maps/Level_1Forest.umap",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/SplashScreenLogo.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
@@ -57,18 +67,9 @@
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/Enemy/MRJY_ShieldMan.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/Enemy/Wolf/AB_Wolf.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/Enemy/MRJY_Enemy_Wolf.uasset",
-				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
-				"C:/Users/Leo/Desktop/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Parent_Pickup.uasset",
 				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_up/Parent_Pickup.uasset",
 				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_up/Health_Pack.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_up/Mesh/Cube.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Mesh/Cube.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_ups/Health_Pack.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
-				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TN/E0UQPIK1M515YS7Z3A8UBC.uasset"
+				"C:/Users/Leo/Desktop/Data mining/CS415FinalProject/CS415_FinalProject/Content/Pick_up/Mesh/Cube.uasset"
 			]
 		}
 	]
