@@ -7,10 +7,11 @@
 			"files": [
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/SplashScreenLogo.uasset",
-				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_SplashScreen.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_PauseScreen.uasset",
 				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/HealthBar.uasset",
+				"/Users/ritikdutta/Desktop/cs415/new/CS415FinalProject/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_SplashScreen.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Work/CS415/Final Project/CS415_FinalProject/Content/ThirdPerson/Input/IMC_Default.uasset",
